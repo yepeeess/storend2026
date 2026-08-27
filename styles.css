@@ -511,7 +511,7 @@ button, .nav-btn, .side-link{touch-action:manipulation; min-height:44px}
 @media(max-width:768px){.live-sections{grid-template-columns:1fr !important}}
 /* ===== FONDO BIFOR ===== */
 body{
-  background: var(--black) url("assets/fondo.jpg") no-repeat center center fixed;
+  background: var(--black) url("/assets/fondo.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 body::before{
@@ -648,3 +648,4 @@ img[loading="lazy"]{background:var(--card2)}
   body{background:white !important; color:black !important}
   .card{break-inside:avoid; box-shadow:none; border:1px solid #ccc}
 }
+

@@ -1,5 +1,5 @@
-{
-  "name": "BIFOR 2026 - Innovación que Transforma",
+﻿{
+  "name": "BIFOR 2026 - InnovaciÃ³n que Transforma",
   "short_name": "BIFOR2026",
   "description": "Plataforma BIFOR 2026 con registro, minijuegos Kahoot, carnet QR y ranking en vivo",
   "start_url": "./index.html",
@@ -9,16 +9,17 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "assets/bifor-color.png",
+      "src": "/assets/bifor-color.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "assets/bifor-blanco.png",
+      "src": "/assets/bifor-blanco.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     }
   ]
 }
+
