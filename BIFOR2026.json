@@ -1,0 +1,13 @@
+﻿{
+    "imagenes":  [
+                     "fondo.jpg",
+                     "bifor-color.png",
+                     "bifor-blanco.png",
+                     "camara-color.png",
+                     "neurocity-color.png"
+                 ],
+    "descripcion":  "BIFOR2026 con imagenes originales: fondo.jpg como fondo, bifor-color/blanco visibles y marca de agua, patrocinadores Camara y NeuroCity",
+    "nombre":  "BIFOR2026",
+    "version":  "4.0-originales",
+    "fecha":  "2026-08-27 14:56:41"
+}
